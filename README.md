@@ -5,12 +5,13 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome AI tools. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome Job Websites. Updated weekly.</strong>
 </p>
 
-This curated list highlights some of the most impactful and user-friendly AI tools available today—categorized by use case, such as chatbots, research, writing, video, image tools, web dev, and more. Whether you're a developer, researcher, or creative professional, these tools can boost your productivity and innovation.
+This curated list showcases some of the best and most reliable job websites—categorized by job type, industry, and location. Whether you're a fresh graduate, experienced professional, or freelancer, these platforms can help you find the right opportunities faster.  
 
-If you’d like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
+If you’d like to suggest a job site or contribute to this directory, feel free to reach out or submit ideas via pull request.
+
 
 ## 🤝 Contributing
 
