@@ -87,14 +87,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
-<summary> <h2>📚 Research & Writing </h2> </summary>
+<summary> <h2>🔍 Globel Job Search Platforms </h2> </summary>
 
-| Title/Link | Description |
-|---|---|
-| [**Khoj**](https://khoj.dev/) | Open-source research assistant for writers and researchers. |
-| [**DeepSeek (Open Source)**](https://github.com/deepseek-ai) | Open-source tools and models from DeepSeek AI. |
-| [**Chatbot Arena**](https://chat.lmsys.org/) | Platform to compare LLMs in real-time chat battles. |
-| [**✅Writing Tools**](https://chat.lmsys.org/) | Writing Tools is an Apple Intelligence-inspired application for Windows, Linux, and macOS that supercharges your writing with an AI LLM (cloud-based or local).. |
+| Title/Link | Description | Tags |
+|---|---|---|
+| [**LinkedIn Jobs**](https://www.linkedin.com/jobs/) | Largest professional job board. | Jobs, Networking, Free |
+| [**Indeed**](https://www.indeed.com/) | Comprehensive job search engine. | Jobs, Aggregator, Free |
+| [**AngelList**](https://angel.co/jobs) | Startup job opportunities. | Jobs, Startups, Free |
+| [**RemoteOK**](https://remoteok.com/) | Remote job listings. | Jobs, Remote, Free |
 </details>
 
 <details> 
