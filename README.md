@@ -127,6 +127,26 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**JibberJobber**](https://www.jibberjobber.com/) | Career management CRM. | Organization, Free Tier |
 </details>
 
+<details> 
+<summary> <h2>🔍 Postdoc Job Search Platforms </h2> </summary>
+
+| Title/Link | Description | Tags |
+|---|---|---|
+| [**LinkedIn Jobs**](https://www.linkedin.com/jobs/) | Largest professional job board. | Jobs, Networking, Free |
+| [**Indeed**](https://www.indeed.com/) | Comprehensive job search engine. | Jobs, Aggregator, Free |
+| [**AngelList**](https://angel.co/jobs) | Startup job opportunities. | Jobs, Startups, Free |
+| [**RemoteOK**](https://remoteok.com/) | Remote job listings. | Jobs, Remote, Free |
+</details>
+
+<details> 
+<summary> <h2>🔍  Job Searching Company </h2> </summary>
+
+| Title/Link | Description | Tags |Country|
+|---|---|---|
+| [**Codeaza**](https://codeaza.notion.site/1fc1e0fd9cc581d0aa3ce6931996a157) | Largest professional job board. | Jobs, AI,others |Pakistan|
+
+</details>
+
 ## 📬 Stay Updated with Job Search Tips!
 
 Get weekly job search strategies, new tools, and career advice straight to your inbox.  
