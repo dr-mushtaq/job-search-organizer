@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    Awesome AI Tools & Resources
+    Awesome Job Search& Resources
     <br>
 </h1>
 
