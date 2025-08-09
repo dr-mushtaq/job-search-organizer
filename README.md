@@ -152,25 +152,25 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 ## 📚-**UK**
  
-| #  | University / Lab                | Professor Name         | Designation         | Domain | Applied Date | Job Link | Email                                      | Job Title            | Follow-up Date | Mushtaq | Note  |
-|----|----------------------------------|------------------------|---------------------|--------|--------------|----------|---------------------------------------------|----------------------|----------------|---------|-------|
-| 3  | The Artificial Intelligence Lab | ANN NOWÉ               | Head                | AI     |              |          | ann.nowe@vub.be                            |                      |                | TRUE    |       |
-| 4  | The Artificial Intelligence Lab | BART DE BOER           | Professor           | AI     |              |          | bart.de.boer@ai.vub.ac.be                   |                      |                | TRUE    |       |
-| 5  | The Artificial Intelligence Lab | BART BOGAERTS          | Professor           | AI     |              |          | bart.bogaerts@vub.be                        |                      |                | TRUE    |       |
-| 6  | The Artificial Intelligence Lab | WIM VRANKEN            | Professor           | AI     |              |          | wim.vranken@vub.be                          |                      |                | FALSE   |       |
-| 7  | The Artificial Intelligence Lab | TOM LENAERTS           | Professor           | AI     |              |          | Tom.Lenaerts@vub.be                         |                      |                | FALSE   |       |
-| 8  | The Artificial Intelligence Lab | PIETER LIBIN           | Professor           | AI     |              |          | pieter.libin@vub.be                         |                      |                | FALSE   |       |
-| 9  | The Artificial Intelligence Lab | PAUL VAN EECKE         | Professor           | AI     |              |          | paul@ai.vub.ac.be                           |                      |                | FALSE   |       |
-| 10 | The Artificial Intelligence Lab | LYNN HOUTHUYS          | Professor           | AI     |              |          | lynn.houthuys@vub.be                        |                      |                | FALSE   |       |
-| 11 | The Artificial Intelligence Lab | GERAINT WIGGINS        | Professor           | AI     |              |          | geraint@ai.vub.ac.be                        |                      |                | FALSE   |       |
-| 12 | The Artificial Intelligence Lab | JOHAN LOECKX           | Professor           | AI     |              |          | jloeckx@ai.vub.ac.be                        |                      |                | FALSE   |       |
-| 13 | University of Cambridge         | Georgie Willsher       | Professor           | AI     |              |          | georgie.willsher@mrc-cbu.cam.ac.uk          |                      |                | TRUE    |       |
-| 14 | University of Cambridge         | Dr Nicholas Walton     | Professor           | AI     |              |          | naw@ast.cam.ac.uk                           |                      |                | TRUE    |       |
-| 15 | Aalto University                | Samuel Kaski           | Professor           | AI     |              |          |                                             |                      |                | FALSE   |       |
-| 16 | Aalto University                | Fang Wang              | Professor           | AI     |              |          | fang.wang@aalto.fi                          | Postdoc              |                | TRUE    | reply |
-| 17 | Aalto University                | Prof. Siavash Khajavi  | Professor           | AI     |              |          | siavash.khajavi@aalto.fi                    | PhD                  |                | FALSE   |       |
-| 18 | University of Derby             | Farid Meziane          | Professor           | AI     |              |          | f.meziane@derby.ac.uk                       | Research assistant   |                | TRUE    |       |
-| 19 | University of Virginia          | Negin Alemazkoor       | Assistant professor | AI     |              |          | na7fp@virginia.edu                          | PhD Postdoc          |                | TRUE    |       |
+| #  | University / Lab                | Professor Name         | Designation         | Domain | Applied Date | Job Link | Email | Job Title            | Follow-up Date | Mushtaq | Note  |
+|----|----------------------------------|------------------------|---------------------|--------|--------------|----------|-------|----------------------|----------------|---------|-------|
+| 3  | The Artificial Intelligence Lab | ANN NOWÉ               | Head                | AI     |              |          | [Email](mailto:ann.nowe@vub.be)              |                      |                | ✅      |       |
+| 4  | The Artificial Intelligence Lab | BART DE BOER           | Professor           | AI     |              |          | [Email](mailto:bart.de.boer@ai.vub.ac.be)    |                      |                | ✅      |       |
+| 5  | The Artificial Intelligence Lab | BART BOGAERTS          | Professor           | AI     |              |          | [Email](mailto:bart.bogaerts@vub.be)         |                      |                | ✅      |       |
+| 6  | The Artificial Intelligence Lab | WIM VRANKEN            | Professor           | AI     |              |          | [Email](mailto:wim.vranken@vub.be)           |                      |                | ❌      |       |
+| 7  | The Artificial Intelligence Lab | TOM LENAERTS           | Professor           | AI     |              |          | [Email](mailto:Tom.Lenaerts@vub.be)          |                      |                | ❌      |       |
+| 8  | The Artificial Intelligence Lab | PIETER LIBIN           | Professor           | AI     |              |          | [Email](mailto:pieter.libin@vub.be)          |                      |                | ❌      |       |
+| 9  | The Artificial Intelligence Lab | PAUL VAN EECKE         | Professor           | AI     |              |          | [Email](mailto:paul@ai.vub.ac.be)            |                      |                | ❌      |       |
+| 10 | The Artificial Intelligence Lab | LYNN HOUTHUYS          | Professor           | AI     |              |          | [Email](mailto:lynn.houthuys@vub.be)         |                      |                | ❌      |       |
+| 11 | The Artificial Intelligence Lab | GERAINT WIGGINS        | Professor           | AI     |              |          | [Email](mailto:geraint@ai.vub.ac.be)         |                      |                | ❌      |       |
+| 12 | The Artificial Intelligence Lab | JOHAN LOECKX           | Professor           | AI     |              |          | [Email](mailto:jloeckx@ai.vub.ac.be)         |                      |                | ❌      |       |
+| 13 | University of Cambridge         | Georgie Willsher       | Professor           | AI     |              |          | [Email](mailto:georgie.willsher@mrc-cbu.cam.ac.uk) |                  |                | ✅      |       |
+| 14 | University of Cambridge         | Dr Nicholas Walton     | Professor           | AI     |              |          | [Email](mailto:naw@ast.cam.ac.uk)            |                      |                | ✅      |       |
+| 15 | Aalto University                | Samuel Kaski           | Professor           | AI     |              |          |                                             |                      |                | ❌      |       |
+| 16 | Aalto University                | Fang Wang              | Professor           | AI     |              |          | [Email](mailto:fang.wang@aalto.fi)           | Postdoc              |                | ✅      | reply |
+| 17 | Aalto University                | Prof. Siavash Khajavi  | Professor           | AI     |              |          | [Email](mailto:siavash.khajavi@aalto.fi)     | PhD                  |                | ❌      |       |
+| 18 | University of Derby             | Farid Meziane          | Professor           | AI     |              |          | [Email](mailto:f.meziane@derby.ac.uk)        | Research assistant   |                | ✅      |       |
+| 19 | University of Virginia          | Negin Alemazkoor       | Assistant Professor | AI     |              |          | [Email](mailto:na7fp@virginia.edu)           | PhD Postdoc          |                | ✅      |       |
 
 </details>
 
