@@ -147,6 +147,17 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 </details>
 
+<details> 
+<summary> <h2>Post searching in Country</h2> </summary>
+
+## 📚-**UK**
+ 
+| Topic Name/Tutorial  | Video | Video |collaboration doc|
+|---|---|---|----|
+|[**✅1- Introduction to Artificial Intelligence (AI)-g⭐️**](https://substack.com/home/post/p-155594915)| [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |[Link](https://docs.google.com/document/d/1IjiHsh8Q9ldiCMEkEJqfpArfRm_sPAy-N9pNmnSHASY/edit?usp=sharing)|
+
+</details>
+
 ## 📬 Stay Updated with Job Search Tips!
 
 Get weekly job search strategies, new tools, and career advice straight to your inbox.  
