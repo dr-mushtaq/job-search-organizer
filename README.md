@@ -141,8 +141,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>🔍  Job Searching Company </h2> </summary>
 
-| Title/Link | Description | Tags |Country|
-|---|---|---|
+| Title/Link | Description | Tags |Country|Feedback|
+|---|---|---|---|---|
 | [**Codeaza**](https://codeaza.notion.site/1fc1e0fd9cc581d0aa3ce6931996a157) | Largest professional job board. | Jobs, AI,others |Pakistan|
 
 </details>
