@@ -76,20 +76,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## Contents
 
 <details> 
-<summary> <h2>🔍 General Tools and Chatbots </h2> </summary>
+<summary> <h2>📄 Resume & Cover Letter Tools </h2> </summary>
 
-| Title/Link | Description |Tage|
+| Title/Link | Description | Tags |
 |---|---|---|
-| [**Theresanaiforthat**](https://theresanaiforthat.com/) | Directory of AI tools for every possible use case. |Directory,Paid,Free,Tire|
-| [**ChatGPT**](https://chat.openai.com/) | Chatbot powered by OpenAI for general and professional use. |Chatbot, Paid, Free Tier|
-| [**Copilot**](https://copilot.microsoft.com/) | Microsoft's AI assistant integrated across their ecosystem. | Assistant, Free, Microsoft
-| [**Poe**](https://poe.com/) | Multi-AI platform enabling access to various models. | Multi-Model, Chatbot, Free/Paid |
-| [**Groq**](https://groq.com/) | High-performance inference for LLMs. |Inference, Developer Tools, Free|
-| [**Hugging Face**](https://huggingface.co/) | Hub for AI models, datasets, and ML tools. |Open-Source, Models, Hosting |
-| [**Mistral Chat**](https://chat.mistral.ai/) | Chatbot powered by Mistral models. |Chatbot, Free, Mistral |
-| [**Pi (Inflection AI)**](https://heypi.com/) | Personalized AI chatbot assistant. |Personal Assistant, Free |
-| [**DeepSeek Chat**](https://chat.deepseek.com/) | Open-source chat assistant by DeepSeek. |Open-Source, Chatbot, Free |
-| [**Andi Search**](https://andisearch.com/) | AI-powered search engine with conversational answers. |Search, Chatbot, Free |
+| [**Kickresume**](https://www.kickresume.com/) | AI-powered resume builder with templates. | Resume, AI, Free/Paid |
+| [**ResumeWorded**](https://resumeworded.com/) | Improves your resume with AI suggestions. | Resume, AI, Free Tier |
+| [**Canva Resume Builder**](https://www.canva.com/resumes/) | Professional resume templates. | Resume, Design, Free |
+| [**CoverDoc.ai**](https://coverdoc.ai/) | Generates personalized cover letters. | Cover Letter, AI, Free |
 </details>
 
 <details> 
