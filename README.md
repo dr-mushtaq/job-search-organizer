@@ -137,6 +137,13 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Indeed**](https://www.indeed.com/) | Comprehensive job search engine. | Jobs, Aggregator, Free |
 | [**AngelList**](https://angel.co/jobs) | Startup job opportunities. | Jobs, Startups, Free |
 | [**RemoteOK**](https://remoteok.com/) | Remote job listings. | Jobs, Remote, Free |
+| [**Euraxess**](https://lnkd.in/gV4_aEKi) | EU-funded portal for research and postdoc positions. | Europe, Research |
+| [**Nature Careers**](https://lnkd.in/gBAJYGuh) | Jobs and fellowships in science and academia. | Global, Science |
+| [**ResearchGate**](https://lnkd.in/gBKNn4-w) | Research-focused networking and job board. | Global, Research |
+| [**FindAPostDoc**](https://lnkd.in/gadznjrJ) | Dedicated platform for postdoc opportunities. | Global, Academia |
+| [**Academic Positions**](https://lnkd.in/gKfjZy9K) | International academic career network. | Global, Research |
+| [**PostdocJobs**](https://lnkd.in/gc4sJC4R) | Specialized portal for postdoc positions. | Global, Academia |
+| [**Scholarship Positions**](https://lnkd.in/gtQ2KJXN) | Database of scholarships and postdoctoral fellowships. | Global, Funding |
 </details>
 
 <details> 
