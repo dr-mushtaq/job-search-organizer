@@ -144,6 +144,46 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Academic Positions**](https://lnkd.in/gKfjZy9K) | International academic career network. | Global, Research |
 | [**PostdocJobs**](https://lnkd.in/gc4sJC4R) | Specialized portal for postdoc positions. | Global, Academia |
 | [**Scholarship Positions**](https://lnkd.in/gtQ2KJXN) | Database of scholarships and postdoctoral fellowships. | Global, Funding |
+| [**NIH Office of Intramural Training & Education**](https://lnkd.in/gN8iwysw) | Postdoc training and fellowships at NIH. | USA, Biomedical |
+| [**NSF Postdoctoral Fellowships**](https://lnkd.in/gn3ytcaT) | Competitive fellowships for postdoctoral research. | USA, Research |
+| [**Science Careers**](https://lnkd.in/gjfakgcd) | Research and postdoc jobs from AAAS. | USA, Science |
+| [**Harvard Postdoc**](https://lnkd.in/gm8FSV4v) | Postdoctoral opportunities at Harvard. | USA, Academia |
+| [**Stanford Postdoc**](https://lnkd.in/g2M7-eci) | Postdoc resources at Stanford University. | USA, Academia |
+| [**Berkeley Postdoc**](https://lnkd.in/gHGB7pXw) | UC Berkeley postdoctoral affairs. | USA, Academia |
+| [**Yale Postdoc**](https://postdocs.yale.edu/) | Yale University postdoctoral positions. | USA, Academia |
+| [**MIT Postdoc**](https://postdocs.mit.edu/) | MIT postdoctoral opportunities. | USA, Academia |
+| [**UC Postdoc**](https://postdocs.ucsd.edu/) | University of California postdoctoral programs. | USA, Academia |
+| [**Johns Hopkins Postdoc**](https://postdoc.jhu.edu/) | Postdoc opportunities at JHU. | USA, Academia |
+| [**Cornell Postdoc**](https://lnkd.in/gj8Tmvkr) | Postdoctoral positions at Cornell. | USA, Academia |
+| [**Canadian Association of Postdoctoral Scholars (CAPS)**](https://www.caps-acsp.ca/) | National association supporting postdocs in Canada. | Canada, Networking |
+| [**Banting Fellowships**](https://lnkd.in/gMEwsHjU) | Prestigious Canadian government fellowships. | Canada, Funding |
+| [**Mitacs Elevate**](https://lnkd.in/g6M-8TxS) | Postdoctoral fellowship program with industry links. | Canada, Research |
+| [**University of Toronto Postdoc**](https://lnkd.in/g_s2yzbp) | Postdoctoral fellowships at UofT. | Canada, Academia |
+| [**UBC Postdoc**](https://lnkd.in/gNrw4jjq) | Postdoc opportunities at UBC. | Canada, Academia |
+| [**UKRI**](https://lnkd.in/gHTR-hRm) | Research funding and fellowships in the UK. | UK, Funding |
+| [**The Royal Society Fellowships**](https://lnkd.in/gMCdvBhC) | Prestigious fellowships for researchers. | UK, Funding |
+| [**Marie Skłodowska-Curie Actions (MSCA)**](https://lnkd.in/g3_68yNG) | EU fellowships for researchers. | UK, EU, Funding |
+| [**Wellcome Trust Fellowships**](https://lnkd.in/gcSt5p8C) | Postdoc funding in biomedical research. | UK, Biomedical |
+| [**Oxford Postdoc**](https://lnkd.in/gfUFMvV8) | Postdoctoral resources at Oxford University. | UK, Academia |
+| [**Cambridge Postdoc**](https://lnkd.in/gcHnUZPJ) | Cambridge University postdoctoral programs. | UK, Academia |
+| [**EMBO**](https://lnkd.in/g6J43XVP) | European Molecular Biology Organization fellowships. | Europe, Life Sciences |
+| [**Max Planck Society**](https://lnkd.in/gkXRjAXm) | Research institutes offering postdoc positions. | Germany, Research |
+| [**Helmholtz Association**](https://lnkd.in/gkNcYj-s) | German research network with postdoc opportunities. | Germany, Research |
+| [**CERN Fellowship**](https://lnkd.in/gZGRX352) | Prestigious research fellowships in physics. | Europe, Physics |
+| [**EPFL Postdoc**](https://lnkd.in/ggNYHWAH) | Postdoctoral programs at EPFL Switzerland. | Switzerland, Academia |
+| [**Leibniz Association**](https://lnkd.in/g3PiFmrv) | Research institutes across Germany. | Germany, Research |
+| [**ETH Zurich Postdoc**](https://lnkd.in/g5vxa4VV) | ETH Zurich postdoctoral fellowships. | Switzerland, Academia |
+| [**Australian Research Council (ARC)**](https://lnkd.in/gMRpReZY) | Funding body for Australian research. | Australia, Funding |
+| [**University of Sydney Postdoc**](https://lnkd.in/gjmu5SR9) | Postdoctoral programs at Sydney University. | Australia, Academia |
+| [**University of Melbourne Postdoc**](https://lnkd.in/g2B3J4Yg) | Melbourne University postdoc programs. | Australia, Academia |
+| [**University of Queensland Postdoc**](https://lnkd.in/gxQi4VPc) | UQ postdoctoral opportunities. | Australia, Academia |
+| [**University of Auckland Postdoc**](https://lnkd.in/gHrdXFHJ) | New Zealand postdoctoral programs. | NZ, Academia |
+| [**JSPS Fellowships**](https://lnkd.in/ggk4CBzZ) | Prestigious postdoctoral fellowships in Japan. | Japan, Funding |
+| [**NUS Postdoc**](https://lnkd.in/gVsf4SpD) | National University of Singapore opportunities. | Singapore, Academia |
+| [**CAS Postdoc**](https://lnkd.in/gPNN7j_P) | Chinese Academy of Sciences postdoctoral programs. | China, Research |
+| [**IISc Postdoc**](https://lnkd.in/gtx8eHfp) | Postdoc opportunities at Indian Institute of Science. | India, Academia |
+| [**QNRF**](https://lnkd.in/gHjgyPvd) | Qatar National Research Fund fellowships. | Qatar, Funding |
+| [**KAUST Postdoc**](https://lnkd.in/gYc2kmz5) | King Abdullah University of Science and Technology postdoctoral programs. | Saudi Arabia, Academia |
 </details>
 
 <details> 
