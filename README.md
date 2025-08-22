@@ -95,6 +95,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Indeed**](https://www.indeed.com/) | Comprehensive job search engine. | Jobs, Aggregator, Free |
 | [**AngelList**](https://angel.co/jobs) | Startup job opportunities. | Jobs, Startups, Free |
 | [**RemoteOK**](https://remoteok.com/) | Remote job listings. | Jobs, Remote, Free |
+| [**laboro**](https://laboro.co/search) | AI Agent to Auto-Apply ML Jobs | Jobs, AI job, Free |
 </details>
 
 <details> 
