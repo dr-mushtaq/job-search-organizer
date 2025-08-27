@@ -126,6 +126,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Huntr**](https://huntr.co/) | Visual job application tracker. | Organization, Free |
 | [**Teal**](https://www.tealhq.com/) | All-in-one job search manager. | Organization, Free |
 | [**JibberJobber**](https://www.jibberjobber.com/) | Career management CRM. | Organization, Free Tier |
+| [**searchlinkbuilder**](https://searchlinkbuilder.com/) | PSA because this is very handy - I found this very useful tool that builds the boolean operator links for you. Add your wants and don't wants. And then just copy and paste the link from the bottom.| Job, lInkden|
 </details>
 
 <details> 
