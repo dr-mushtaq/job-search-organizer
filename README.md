@@ -96,6 +96,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**AngelList**](https://angel.co/jobs) | Startup job opportunities. | Jobs, Startups, Free |
 | [**RemoteOK**](https://remoteok.com/) | Remote job listings. | Jobs, Remote, Free |
 | [**laboro**](https://laboro.co/search) | AI Agent to Auto-Apply ML Jobs | Jobs, AI job, Free |
+| [**work.mercor**](https://work.mercor.com/explore) | Mercor is an AI-powered recruiting and freelance work platform, especially prominent in the AI, data annotation, and intelligence engineering fields. You create an account once, upload your resume, and Mercor matches you to thousands of job opportunities globally | Jobs, AI job, Free |
 </details>
 
 <details> 
