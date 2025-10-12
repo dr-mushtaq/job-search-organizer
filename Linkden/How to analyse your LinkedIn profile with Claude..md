@@ -1,4 +1,10 @@
-Sentiment analysis, also known as opinion mining, is a technique used to determine the sentiment or emotion expressed in a piece of text. It has gained significant popularity in recent years due to the rise of social media and the need to understand customer opinions and feedback. In this blog post, we will explore how to perform sentiment analysis using logistic regression with Python.
+How to analyse your LinkedIn profile with Claude.
+
+1. Download Claude for Chrome: [chromewebstore.google.c](https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn)
+
+2. Open LinkedIn + Claude for Chrome.
+
+3. Paste in this prompt:
 
 
 ## 📑 Table of Contents  
@@ -120,6 +126,7 @@ In conclusion, sentiment analysis using logistic regression is a powerful techni
 
 
 <p align="right"><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/home_page.png" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/contents_page.jpg" /></a><a target="_blank" href="https://github.com/dr-mushtaq/natural-language-processing-projects-python/blob/main/%F0%9F%93%9AChapter%201%20Introduction/What%20is%20NLP.md"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/back_page.png" /></a><a target="_blank" href="https://coursesteach.com/mod/page/view.php?id=6320&amp;forceview=1"><img height="50px" src="https://raw.githubusercontent.com/dipanjanS/practical-machine-learning-with-python/master/media/assets/next_page.png" /></a></p>
+
 
 
 
