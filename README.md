@@ -136,6 +136,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Title/Link | Description | Tags |
 |---|---|---|
 | [**LinkedIn Jobs**](https://www.linkedin.com/jobs/) | Largest professional job board. | Jobs, Networking, Free |
+| [**Talent**](https://au.talent.com/jobs?k=Postdoctoral+Fellow&l=Australia&date=3&id=8fdb8505dce2) | Find postdoc and other job austrial | austrial |
 | [**Indeed**](https://www.indeed.com/) | Comprehensive job search engine. | Jobs, Aggregator, Free |
 | [**AngelList**](https://angel.co/jobs) | Startup job opportunities. | Jobs, Startups, Free |
 | [**RemoteOK**](https://remoteok.com/) | Remote job listings. | Jobs, Remote, Free |
