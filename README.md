@@ -186,6 +186,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**IISc Postdoc**](https://lnkd.in/gtx8eHfp) | Postdoc opportunities at Indian Institute of Science. | India, Academia |
 | [**QNRF**](https://lnkd.in/gHjgyPvd) | Qatar National Research Fund fellowships. | Qatar, Funding |
 | [**KAUST Postdoc**](https://lnkd.in/gYc2kmz5) | King Abdullah University of Science and Technology postdoctoral programs. | Saudi Arabia, Academia |
+| [**Talent**](https://au.talent.com/jobs?k=Postdoctoral+Fellow&l=Australia&date=3&id=8fdb8505dce2) | Find postdoc and other job austrial | austrial |
 </details>
 
 <details> 
