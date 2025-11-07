@@ -107,6 +107,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Pramp**](https://www.pramp.com/) | Free mock technical interviews. | Interview, Tech, Free |
 | [**Interviewing.io**](https://interviewing.io/) | Anonymous technical interview practice. | Interview, Tech, Free Tier |
 | [**Big Interview**](https://www.biginterview.com/) | AI-powered interview coaching. | Interview, AI, Paid |
+| [**prachub**](https://prachub.com/questions) | AI-powered interview coaching. | Interview, AI, Paid |
 </details>
 
 <details> 
@@ -188,6 +189,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**QNRF**](https://lnkd.in/gHjgyPvd) | Qatar National Research Fund fellowships. | Qatar, Funding |
 | [**KAUST Postdoc**](https://lnkd.in/gYc2kmz5) | King Abdullah University of Science and Technology postdoctoral programs. | Saudi Arabia, Academia |
 | [**Talent**](https://au.talent.com/jobs?k=Postdoctoral+Fellow&l=Australia&date=3&id=8fdb8505dce2) | Find postdoc and other job austrial | austrial |
+| [**metacareers**](https://www.metacareers.com/jobs?q=Postdoc) | Qatar National Research Fund fellowships. | International Funding |
 </details>
 
 <details> 
