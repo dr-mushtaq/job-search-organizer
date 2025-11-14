@@ -107,6 +107,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Post doc**](https://chat.whatsapp.com/HN3oPF1YUbjGtajf3oyJf8) | Find Postdoc Whatsapp Group| Jobs, Postdoc Whatsapp |
 | [**Postdoc and Phd**](https://docs.google.com/spreadsheets/d/1YhOUW_kUtm1Ju2Mc69_15Afvl9ApXXYJhd4iVnUpBr4/edit?gid=497142877#gid=497142877) | Google Sheet for Share Postdoc and PhD job | Jobs, Google Sheet |
 
+</details>
+
 <details> 
 <summary> <h2>💼 Interview Preparation </h2> </summary>
 
