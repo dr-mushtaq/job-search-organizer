@@ -211,6 +211,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|---|---|
 | [**Codeaza**](https://codeaza.notion.site/1fc1e0fd9cc581d0aa3ce6931996a157) | Largest professional job board. | Jobs, AI,others |Pakistan|
 | [**United Arab Emirates University**](https://jobs.uaeu.ac.ae/) | Find job in UAE University. | Jobs, AI,others |United Arab Emirates |
+| [**AI Data House SMC (pvt) Limited**](https://jobs.uaeu.ac.ae/) | Find job in UAE University. | Islamabad |--- |
 
 </details>
 
