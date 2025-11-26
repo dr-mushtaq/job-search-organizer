@@ -240,6 +240,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | 18 | University of Derby             | Farid Meziane          | Professor           | AI     |              |          | [Email](mailto:f.meziane@derby.ac.uk)        | Research assistant   |                | ✅      |       |
 | 19 | University of Virginia          | Negin Alemazkoor       | Assistant Professor | AI     |              |          | [Email](mailto:na7fp@virginia.edu)           | PhD Postdoc          |                | ✅      |       |
 
+## 📚-**CHINA**
+
+| #  | University / Lab                | Professor Name         | Designation         | Domain | Applied Date | Job Link | Email | Job Title            | Follow-up Date | Mushtaq | Note  |
+|----|----------------------------------|------------------------|---------------------|--------|--------------|----------|-------|----------------------|----------------|---------|-------|
+| 1  | Shenzhen University | ANN NOWÉ               | Head                | AI     |              |    [Link](https://ias.szu.edu.cn/en/index.htm)      | [Email](mailto:ann.nowe@vub.be)              |                      |                | ✅      |       |
+
 </details>
 
 ## 📬 Stay Updated with Job Search Tips!
