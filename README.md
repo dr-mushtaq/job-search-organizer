@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    Awesome Job Search& Resources
+    Awesome Jobs and Fully Funded Scholarships Search& Resources
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome Job Websites. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome Job Websites, fully funded Master's/PhD, PostDoc Positions. Updated weekly.</strong>
 </p>
 
 This curated list showcases some of the best and most reliable job websites—categorized by job type, industry, and location. Whether you're a fresh graduate, experienced professional, or freelancer, these platforms can help you find the right opportunities faster.  
