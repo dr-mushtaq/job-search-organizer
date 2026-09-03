@@ -84,6 +84,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**ResumeWorded**](https://resumeworded.com/) | Improves your resume with AI suggestions. | Resume, AI, Free Tier |
 | [**Canva Resume Builder**](https://www.canva.com/resumes/) | Professional resume templates. | Resume, Design, Free |
 | [**CoverDoc.ai**](https://coverdoc.ai/) | Generates personalized cover letters. | Cover Letter, AI, Free |
+| [**Overleaf**](https://www.overleaf.com/) | Online LaTeX editor great for building clean, professional resumes and cover letters. | Resume, Cover Letter, LaTeX, Free/Paid |
 </details>
 
 <details> 
@@ -121,6 +122,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Interviewing.io**](https://interviewing.io/) | Anonymous technical interview practice. | Interview, Tech, Free Tier |
 | [**Big Interview**](https://www.biginterview.com/) | AI-powered interview coaching. | Interview, AI, Paid |
 | [**prachub**](https://prachub.com/questions) | AI-powered interview coaching. | Interview, AI, Paid |
+| [**Exponent**](https://www.tryexponent.com/) | Interview prep courses and coaching for PM, engineering, data science & more. | Interview, Coaching, Paid |
 </details>
 
 <details> 
@@ -131,6 +133,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**LinkedIn**](https://www.linkedin.com/) | Essential professional networking. | Networking, Free |
 | [**Shapr**](https://www.shapr.com/) | Networking app for professionals. | Networking, Free |
 | [**Lunchclub**](https://lunchclub.com/) | AI-matched professional meetings. | Networking, AI, Free |
+| [**Meetup**](https://www.meetup.com/) | Find and join local professional & interest-based networking events. | Networking, Events, Free |
 </details>
 
 <details> 
@@ -212,6 +215,19 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Talent**](https://au.talent.com/jobs?k=Postdoctoral+Fellow&l=Australia&date=3&id=8fdb8505dce2) | Find postdoc and other job austrial | austrial |
 | [**metacareers**](https://www.metacareers.com/jobs?q=Postdoc) | Qatar National Research Fund fellowships. | International Funding |
 | [**scholarshipdb.net**](https://scholarshipdb.net/scholarships-in-Germany?q=Postdoctoral%20Computer%20Science&listed=Last%207%20days) | Qatar National Research Fund fellowships. | International Funding |
+</details>
+
+<details> 
+<summary> <h2>🎓 Fully Funded Scholarships (Master's/PhD) </h2> </summary>
+
+| Title/Link | Benefits | Country | Fully Funded | Deadline |
+|---|---|---|---|---|
+| [**Türkiye Bursları (Turkiye Scholarships)**](https://www.turkiyeburslari.gov.tr/en) | • University placement + full tuition<br>• Monthly stipend (~6,500 TL Master's / ~9,000 TL PhD) + free housing<br>• 1-yr Turkish course, health insurance & return flight ticket | 🇹🇷 Turkey | ✅ Yes | Applications open ~10 Jan, close ~20 Feb each year (2026 cycle closed 20 Feb 2026 — check site for 2027 dates) |
+| [**Fulbright Foreign Student Program**](https://foreign.fulbrightonline.org/) ([USEFP for Pakistan](https://usefp.org/)) | • Full tuition & required fees<br>• Monthly living stipend + health insurance<br>• Round-trip airfare | 🇺🇸 USA (open worldwide; Pakistan cycle via USEFP) | ✅ Yes | Varies by country; Pakistan (USEFP) 2027 cycle closed 1 Apr 2026 — check usefp.org for next opening |
+| [**US-Pakistan Knowledge Corridor (HEC PhD Scholarship)**](https://scholarship.hec.gov.pk/) | • Full tuition (top-50 QS unis) or up to $12,000/yr (unis ranked 51–100)<br>• Monthly stipend & health insurance<br>• Settlement allowance & airfare | 🇺🇸 USA (for Pakistani/AJK nationals) | ✅ Yes | Two intakes/year — ~15 Nov (Spring/Summer) & ~30 Apr (Fall); Fall 2026 intake closed 30 Apr 2026 |
+| [**McCall MacBain Scholarships**](https://mccallmacbain.org/) | • Full tuition & fees at McGill University<br>• CAD $2,300/month living stipend<br>• Relocation grant + free French language courses | 🇨🇦 Canada | ✅ Yes | 2027 cohort — international applicants: 19 Aug 2026; Canada/US applicants & Canadians abroad: 23 Sept 2026 |
+
+> ℹ️ Deadlines recur annually and can shift slightly year to year — always confirm the exact date on the official site before applying.
 </details>
 
 <details> 
