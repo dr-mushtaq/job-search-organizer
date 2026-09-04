@@ -82,6 +82,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|
 | [**Kickresume**](https://www.kickresume.com/) | AI-powered resume builder with templates. | Resume, AI, Free/Paid |
 | [**ResumeWorded**](https://resumeworded.com/) | Improves your resume with AI suggestions. | Resume, AI, Free Tier |
+| [**ResumeAI**](https://withresumeai.com/) | Free ATS checker + live candidate leaderboard. State of ATS 2026: 738 employers (704 portal-verified); Workday 37.9%. | Resume, ATS, AI, Free |
 | [**Canva Resume Builder**](https://www.canva.com/resumes/) | Professional resume templates. | Resume, Design, Free |
 | [**CoverDoc.ai**](https://coverdoc.ai/) | Generates personalized cover letters. | Cover Letter, AI, Free |
 | [**Overleaf**](https://www.overleaf.com/) | Online LaTeX editor great for building clean, professional resumes and cover letters. | Resume, Cover Letter, LaTeX, Free/Paid |
